@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa114F15D03bd57859b4EbaB774bBf5B9fd9a2183",
+  "SCAN_LINK": "https://evm.explorer.canto.io/address/0xa114F15D03bd57859b4EbaB774bBf5B9fd9a2183",
+  "NETWORK": {
+    "NAME": "Canto",
+    "SYMBOL": "CANTO",
+    "ID": 7700
+  },
+  "NFT_NAME": "Canto Lizard",
+  "SYMBOL": "CLIZAD",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "AltoBuild",
+  "MARKETPLACE_LINK": "https://alto.build/collections/cantolizard",
+  "SHOW_BACKGROUND": true
+}
